@@ -1,6 +1,6 @@
 -- pastebin run LSdUFXvx
-local client_manifest = "https://raw.githubusercontent.com/GabrielleAkers/cc-email/refs/heads/main/client.manifest"
-local server_manifest = "https://raw.githubusercontent.com/GabrielleAkers/cc-email/refs/heads/main/server.manifest"
+local client_manifest = "https://raw.githubusercontent.com/xakota44/waffle/refs/heads/main/client.manifest"
+local server_manifest = "https://raw.githubusercontent.com/xakota44/waffle/refs/heads/main/server.manifest"
 
 local args = { ... }
 local manifest
